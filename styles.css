@@ -1,4 +1,9 @@
 * { box-sizing: border-box; }
+.title {
+  margin-bottom: 2rem;
+  text-align: center;
+  color: whitesmoke;
+}
 body {
   margin: 0;
   min-height: 100vh;
