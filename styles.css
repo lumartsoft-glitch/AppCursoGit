@@ -4,7 +4,7 @@ body {
   min-height: 100vh;
   display: grid;
   place-items: center;
-  background: linear-gradient(145deg, #2e3b57, #1f2638);
+  background: linear-gradient(145deg, #02ff24, #1f3820);
   color: #1f2638;
   font-family: "Inter", "Segoe UI", Roboto, sans-serif;
 }
