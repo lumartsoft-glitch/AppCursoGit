@@ -1,0 +1,12 @@
+# Ignore image files so they are not tracked in the public repository
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
+*.ico
+
+# If image files are stored in a dedicated assets/images folder, ignore that folder too
+assets/images/
